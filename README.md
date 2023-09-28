@@ -5,7 +5,7 @@ An information system student, who have interest in UI design, mobile developmen
 - 🌱 I’m currently learning about java and kotlin
 - 📫 How to reach me: janeptsk@gmail.com
 - 🤝 Lets connect on LinkedIn: https://www.linkedin.com/in/jane-sirken-5b2905233/
-- ⚡ Fun fact: I love designing
+- ⚡ Fun fact: I'm a swiftie
 
 <p align="left">
 <a href="https://github.com/janepetra">

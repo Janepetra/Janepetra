@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Jane
-An information system student, who have interest in UI design, mobile development, and website development.
+An information system student, who has an interest in software development especially in Mobile Development.
 
-- 🔭 I’m currently studying at University of Merdeka Malang
-- 🌱 I’m currently learning about java and kotlin
+- 🔭 I’m currently studying at the University of Merdeka Malang
+- 🌱 I’m currently learning about Kotlin
 - 📫 How to reach me: janeptsk@gmail.com
-- 🤝 Lets connect on LinkedIn: https://www.linkedin.com/in/jane-sirken-5b2905233/
+- 🤝 Let's connect on LinkedIn: https://www.linkedin.com/in/jane-sirken-5b2905233/
 - ⚡ Fun fact: I'm a swiftie
 
 <p align="left">

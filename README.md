@@ -5,7 +5,7 @@ An information system student, who has an interest in software development espec
 - 🌱 I’m currently learning about Kotlin
 - 📫 How to reach me: janeptsk@gmail.com
 - 🤝 Let's connect on LinkedIn: https://www.linkedin.com/in/jane-sirken-5b2905233/
-- ⚡ Fun fact: I'm a swiftie
+- ⚡ Fun fact: I love ICE CREAM
 
 <p align="left">
 <a href="https://github.com/janepetra">

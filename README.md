@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Jane
-An information system student, who has an interest in software development especially in Mobile Development.
+An information systems fresh graduate, who has an interest in software development especially in Mobile Development and Web Development.
 
-- 🔭 I’m currently studying at the University of Merdeka Malang
-- 🌱 I’m currently learning about Kotlin
+- 🔭 I’m currently looking for job opportunity
+- 🌱 I’m currently learning about Javascript and Kotlin
 - 📫 How to reach me: janeptsk@gmail.com
 - 🤝 Let's connect on LinkedIn: https://www.linkedin.com/in/jane-sirken-5b2905233/
 - ⚡ Fun fact: I love ICE CREAM
